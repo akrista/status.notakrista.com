@@ -5,18 +5,24 @@ repo: upptime # The name of this repository
 sites:
   - name: notAkrista
     url: https://www.notakrista.com
+    icon: https://www.notakrista.com/favicon.svg
   - name: Metabase
     url: https://metabase.notakrista.com
+  - name: LittleLink
+    url: https://tree.notakrista.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.notakrista.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "notAkrista's Upptime Status"
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.notakrista.com/favicon.svg
+  favicon: https://www.notakrista.com/favicon.svg
+  faviconSvg: https://www.notakrista.com/favicon.svg
+  name: "notAkrista Status"
+  introTitle: "Welcome to notAkrista's status page! Entirely powered by GitHub Actions and Issues."
+  introMessage: Below you'll find status information for all of my public services. If you're experiencing issues, please don't hesitate to open an issue on the respective GitHub repository.
+  theme: night
   navbar:
     - title: Status
       href: /
