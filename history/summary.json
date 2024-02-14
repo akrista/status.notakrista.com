@@ -2,7 +2,7 @@
   {
     "name": "notAkrista",
     "url": "https://www.notakrista.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.notakrista.com.ico",
+    "icon": "https://www.notakrista.com/favicon.svg",
     "slug": "not-akrista",
     "status": "up",
     "uptime": "99.99%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 146,
-    "timeWeek": 133,
+    "timeDay": 143,
+    "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 159,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase.notakrista.com.ico",
     "slug": "metabase",
     "status": "up",
-    "uptime": "95.05%",
+    "uptime": "95.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "95.05%",
-    "time": 1161,
-    "timeDay": 870,
-    "timeWeek": 983,
-    "timeMonth": 1023,
-    "timeYear": 1161,
+    "uptimeYear": "95.09%",
+    "time": 1159,
+    "timeDay": 882,
+    "timeWeek": 972,
+    "timeMonth": 1019,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2024-01-19": 717,
       "2024-01-18": 249,
@@ -51,5 +51,23 @@
       "2023-12-02": 165,
       "2023-10-30": 17
     }
+  },
+  {
+    "name": "LittleLink",
+    "url": "https://tree.notakrista.com",
+    "icon": "https://icons.duckduckgo.com/ip3/tree.notakrista.com.ico",
+    "slug": "little-link",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 351,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
+    "dailyMinutesDown": {}
   }
 ]
