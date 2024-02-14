@@ -20,7 +20,7 @@ status-website:
   favicon: https://www.notakrista.com/favicon.svg
   faviconSvg: https://www.notakrista.com/favicon.svg
   name: "notAkrista Status"
-  introTitle: "Welcome to notAkrista's status page! Entirely powered by GitHub Actions and Issues."
+  introTitle: "Welcome to notAkrista's status page!"
   introMessage: Below you'll find status information for all of my public services. If you're experiencing issues, please don't hesitate to open an issue on the respective GitHub repository.
   theme: night
   navbar:
