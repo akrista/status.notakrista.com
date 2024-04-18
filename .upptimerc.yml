@@ -8,8 +8,6 @@ sites:
     icon: https://www.notakrista.com/favicon.svg
   - name: Metabase
     url: https://metabase.notakrista.com
-  - name: LittleLink
-    url: https://tree.notakrista.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
