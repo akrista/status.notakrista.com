@@ -22,17 +22,17 @@
     "url": "https://metabase.notakrista.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.notakrista.com.ico",
     "slug": "metabase",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1114,
-    "timeDay": 910,
-    "timeWeek": 1158,
-    "timeMonth": 1001,
-    "timeYear": 1114,
+    "time": 1113,
+    "timeDay": 904,
+    "timeWeek": 1136,
+    "timeMonth": 998,
+    "timeYear": 1113,
     "dailyMinutesDown": {}
   }
 ]
