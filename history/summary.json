@@ -11,28 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 164,
-    "timeWeek": 146,
-    "timeMonth": 138,
+    "timeDay": 198,
+    "timeWeek": 157,
+    "timeMonth": 141,
     "timeYear": 153,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Metabase",
-    "url": "https://metabase.notakrista.com",
-    "icon": "https://icons.duckduckgo.com/ip3/metabase.notakrista.com.ico",
-    "slug": "metabase",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 0,
-    "timeWeek": 729,
-    "timeMonth": 965,
-    "timeYear": 1105,
     "dailyMinutesDown": {}
   }
 ]
