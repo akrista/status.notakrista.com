@@ -4,17 +4,17 @@
     "url": "https://www.notakrista.com",
     "icon": "https://www.notakrista.com/favicon.svg",
     "slug": "not-akrista",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 677,
-    "timeWeek": 730,
-    "timeMonth": 592,
-    "timeYear": 227,
+    "time": 210,
+    "timeDay": 715,
+    "timeWeek": 739,
+    "timeMonth": 599,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   }
 ]
