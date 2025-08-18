@@ -1,24 +1,25 @@
 # Change these first
-owner: notakrista # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: akrista # Your GitHub organization or username, where this repository lives
+repo: status.notakrista.com # The name of this repository
 
 sites:
   - name: notAkrista
     url: https://www.notakrista.com
-    icon: https://www.notakrista.com/favicon.svg
-    
+    icon: https://www.notakrista.com/img/logo.svg
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.notakrista.com
   # baseUrl: /your-repo-name
-  logoUrl: https://www.notakrista.com/favicon.svg
-  favicon: https://www.notakrista.com/favicon.svg
-  faviconSvg: https://www.notakrista.com/favicon.svg
+  logoUrl: https://www.notakrista.com/img/logo.svg
+  favicon: https://www.notakrista.com/img/logo.svg
+  faviconSvg: https://www.notakrista.com/img/logo.svg
   name: "notAkrista Status"
   introTitle: "Welcome to notAkrista's status page!"
   introMessage: Below you'll find status information for all of my public services. If you're experiencing issues, please don't hesitate to open an issue on the respective GitHub repository.
-  theme: night
+  # theme: night
+  themeUrl: https://status.notakrista.com/akrista.css
   navbar:
     - title: Status
       href: /
