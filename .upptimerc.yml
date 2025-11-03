@@ -31,6 +31,23 @@ status-website:
   introMessage: Below you'll find status information for all of my public services. If you're experiencing issues, please don't hesitate to open an issue on the respective GitHub repository.
   # theme: night
   themeUrl: https://status.notakrista.com/akrista.css
+  customHeadHtml: |
+    <!-- Custom HTML to add in the <head> tag -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T0JC5HFS9G"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-T0JC5HFS9G');
+    </script>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "u0jkx47enf");
+    </script>
   navbar:
     - title: Status
       href: /
