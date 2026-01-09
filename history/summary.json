@@ -76,17 +76,17 @@
     "url": "https://img.notakrista.com/",
     "icon": "https://img.notakrista.com/favicon.ico",
     "slug": "images",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 8644,
-    "timeWeek": 4323,
-    "timeMonth": 1855,
-    "timeYear": 1015,
+    "time": 1093,
+    "timeDay": 9516,
+    "timeWeek": 5119,
+    "timeMonth": 2198,
+    "timeYear": 1093,
     "dailyMinutesDown": {}
   }
 ]
