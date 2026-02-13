@@ -1,7 +1,7 @@
 url: https://metabase.notakrista.com/
-status: up
-code: 200
-responseTime: 698
-lastUpdated: 2026-02-12T23:08:20.849Z
+status: down
+code: 502
+responseTime: 130
+lastUpdated: 2026-02-13T13:15:02.677Z
 startTime: 2025-08-18T04:03:58.080Z
 generator: Upptime <https://github.com/upptime/upptime>
